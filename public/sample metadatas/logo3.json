@@ -1,0 +1,34 @@
+{
+  "name": "LTHREE",
+  "symbol": "LEE",
+  "description": "Celebratory Solflare NFT for the Solflare X launch",
+  "seller_fee_basis_points": 0,
+  "image": "https://arweave.net/d96ztyRgsCF2SuFuCvF-QtT3OH5KzedWo3l9tdEMk34?ext=png",
+  "external_url": "https://solflare.com",
+  "attributes": [
+    {
+      "trait_type": "web",
+      "value": "yes"
+    },
+    {
+      "trait_type": "mobile",
+      "value": "yes"
+   },
+   {
+      "trait_type": "extension",
+      "value": "yes"
+    }
+  ],
+  "collection": {
+     "name": "UpdatedByFUNC",
+     "family": "Solflare" 
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/d96ztyRgsCF2SuFuCvF-QtT3OH5KzedWo3l9tdEMk34?ext=png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
