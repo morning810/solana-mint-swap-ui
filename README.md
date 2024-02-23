@@ -96,3 +96,7 @@ Here, you only need to input token address and then you will receive token metad
 
 Enjoy your new token!
 </pre>
+
+<pre>
+- node version: 21.6.2
+</pre>
